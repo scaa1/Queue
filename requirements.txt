@@ -1,0 +1,5 @@
+discord.py>=2.3.0
+aiosqlite>=0.19.0
+python-dotenv>=1.0.0  # Optional: for .env file support
+Pillow>=10.0.0
+matplotlib>=3.7.0
